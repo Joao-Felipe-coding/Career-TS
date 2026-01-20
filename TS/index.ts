@@ -1,2 +1,1 @@
-const nome = 'João Felipe';
-const sobrenome = 'Morais de Oliveira';
+const nome = 'João';
